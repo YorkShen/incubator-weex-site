@@ -181,7 +181,7 @@ module.exports = {
             ['ios-weexcore.md', 'Adapt iOS WeexSDK to WeexCore']
           ],
           '/download/':[
-             ['download', "Source Download"] 
+             ['download', 'Source Download'] 
           ]
         }
       },
@@ -351,7 +351,7 @@ module.exports = {
             ['interaction-optimization', '可交互时间的探索和首屏时间的改进之路']
           ],
           '/zh/download/':[
-            ['download', "源代码下载"] 
+            ['download', '源代码下载'] 
           ]
         }
       }
